@@ -1,4 +1,4 @@
-var RaspiCam = require("../lib/raspicam");
+var RaspiCam = require("raspicam-js");
 
 
 var camera = new RaspiCam({
