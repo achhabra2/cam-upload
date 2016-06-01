@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/achhabra2/cam-upload#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "needle": "^1.0.0",
     "raspicam-js": "^0.3.12"
   }
 }
